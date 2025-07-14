@@ -1,4 +1,4 @@
-# Regional Sales Analysis In B2K (Optimization)
+# Regional Sales Analysis & Optimization
 
 ## Introduction
 **In 2022 Top Distributors in a mid-sized U.S company. A US wholesaler company faced a critical dilemma: despite unsteady sales, profitability fluctuated wildly across regions, and the managements desire some answers:**
